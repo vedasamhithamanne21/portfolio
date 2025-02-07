@@ -1,0 +1,23 @@
+[
+  {
+    "title": "CSV Project",
+    "imageSrc": "projects/project.png",
+    "description": "A web application that enables users to view and modify CSV files or a project that facilitates data import and export using CSV formats.",
+    "skills": ["React", "Nextjs", "Docker", "Node"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "The Recipe Book",
+    "imageSrc": "projects/project.png",
+    "description": "Created an app to help users find recipes based on ingredients they have at home.",
+    "skills": ["React", "Express", "Node", "Sass"], 
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Ultrasonics Smart Glasses with GPS Tracking System",
+    "imageSrc": "projects/project.png",
+    "description": "Designed a smart glass for visually disabled people.",
+    "skills": ["Arduino", "Ultrasonic Sensor", "Servo motor", "GPS tracker"],
+    "source": "https://www.github.com"
+  }
+]

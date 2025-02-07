@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Uber",
+    "startDate": "Feb, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on Ride-Hailing", "Integrate AI-driven solutions"],
+    "imageSrc": "history/uber.png"
+  },
+  {
+    "role": "Process Associate / Software Developer",
+    "organisation": "KnoahSolutions",
+    "startDate": "May, 2019",
+    "endDate": "Dec, 2021",
+    "experiences": ["Re-designed the Dashboard for loginportal", "Monitored the User Interface"],
+    "imageSrc": "history/knoah.jpg"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Trigent Software",
+    "startDate": "Dec, 2018",
+    "endDate": "May, 2019",
+    "experiences": [
+      "Worked on the UI of the application",
+      "Helped with the development of the application"
+    ],
+    "imageSrc": "history/trigent.jpg"
+  }
+]
