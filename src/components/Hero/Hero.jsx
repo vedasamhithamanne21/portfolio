@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         Innovative and solutions-driven Software Developer with 4 years of experience in designing, developing, and deploying scalable solutions using JavaScript, React, Node.js, and modern DevOps practices. Skilled in leading cross-functional teams, optimizing operational efficiencies, and driving the adoption of cutting-edge technologies to exceed business objectives.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:vedasamhithamanne.m@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
